@@ -222,9 +222,10 @@ order by dayname(transaction_date);
 ## PowerBI Part :
 Generated interactive dashboards showing visuals in the form of charts, graphs and heatmaps for the same above problems. We already derived required business driven insights firing SQL queries but to create visuals with interactive dashboard which shows month wise filter datas of daily and monthlu values of total sales, total orders and total quantities, PowerBI is used. 
 Apart from this visuals like Donut charts for sales data for weekends and weekdays, bargraphs showing daily sales, top products and product catagories in the terms of sales and hour & day name wise sales data.
+Also create a tool tip for total sales, total orders and total quantities which can be shown while hovering cursor on any particular date of calender chart just for detail study of that particular day. 
 
 ## Screenshot of Dashboard :
-![Dashboard]()
+![Dashboard](https://github.com/Bonny1309/Coffee-Sales-Analysis---SQL-PowerBI/blob/main/Dashboard.PNG)
 
 
 
